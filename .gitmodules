@@ -1,3 +1,6 @@
 [submodule "git"]
 	path = git
 	url = github.com:git/git
+[submodule "coreutils"]
+	path = coreutils
+	url = https://git.savannah.gnu.org/git/coreutils
