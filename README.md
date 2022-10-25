@@ -7,8 +7,9 @@ Then I hit upon the idea of creating a meta-repo, which references the
 repos I'm reading as sub-modules.  Right now it's still in the
 beginning phase.
 
-I'm still not exactly sure what the name means.  I wanted something
-with "meta-" in it, and I wanted to make it a play on words.  I also
-think it sounds cool on its own, and I'm a bit of an
-astronomy/cosmology nerd.  But I'm still looking for a
-back-justification which uses a pun or double-meaning of some sort.
+I'm still not exactly sure how the name applies to the project
+in-particular.  I just wanted something with "meta-" in it, I wanted
+to make it a play on words, I wanted it to sound cool, and I'm
+somewhat of a astronomy/cosmology nerd.  But I'm still looking for a
+back-justification which uses the word as a pun, or attributes to it a
+double-meaning of some sort.
