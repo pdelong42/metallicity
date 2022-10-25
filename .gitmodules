@@ -4,3 +4,6 @@
 [submodule "coreutils"]
 	path = coreutils
 	url = https://git.savannah.gnu.org/git/coreutils
+[submodule "time"]
+	path = time
+	url = https://git.savannah.gnu.org/git/time.git
