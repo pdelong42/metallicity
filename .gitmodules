@@ -7,3 +7,36 @@
 [submodule "time"]
 	path = git.savannah.gnu.org/time
 	url = git://git.savannah.gnu.org/time
+[submodule "git.savannah.gnu.org/tar"]
+	path = git.savannah.gnu.org/tar
+	url = git://git.savannah.gnu.org/tar
+[submodule "git.savannah.gnu.org/parallel"]
+	path = git.savannah.gnu.org/parallel
+	url = git://git.savannah.gnu.org/parallel
+[submodule "git.savannah.gnu.org/screen"]
+	path = git.savannah.gnu.org/screen
+	url = git://git.savannah.gnu.org/screen
+[submodule "git.savannah.gnu.org/mpria"]
+	path = git.savannah.gnu.org/mpria
+	url = git://git.savannah.gnu.org/mpria
+[submodule "git.savannah.gnu.org/lilypond"]
+	path = git.savannah.gnu.org/lilypond
+	url = git://git.savannah.gnu.org/lilypond
+[submodule "git.savannah.gnu.org/grub"]
+	path = git.savannah.gnu.org/grub
+	url = git://git.savannah.gnu.org/grub
+[submodule "git.savannah.gnu.org/freeipmi"]
+	path = git.savannah.gnu.org/freeipmi
+	url = git://git.savannah.gnu.org/freeipmi
+[submodule "git.savannah.gnu.org/chess"]
+	path = git.savannah.gnu.org/chess
+	url = git://git.savannah.gnu.org/chess
+[submodule "git.savannah.gnu.org/c-intro-and-ref"]
+	path = git.savannah.gnu.org/c-intro-and-ref
+	url = git://git.savannah.gnu.org/c-intro-and-ref
+[submodule "git.savannah.gnu.org/gnuastro"]
+	path = git.savannah.gnu.org/gnuastro
+	url = git://git.savannah.gnu.org/gnuastro
+[submodule "git.savannah.gnu.org/aris"]
+	path = git.savannah.gnu.org/aris
+	url = git://git.savannah.gnu.org/aris
