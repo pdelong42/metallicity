@@ -1,9 +1,9 @@
 [submodule "git"]
-	path = git
+	path = github.com/git/git
 	url = github.com:git/git
 [submodule "coreutils"]
-	path = coreutils
-	url = https://git.savannah.gnu.org/git/coreutils
+	path = git.savannah.gnu.org/coreutils
+	url = git://git.savannah.gnu.org/coreutils
 [submodule "time"]
-	path = time
-	url = https://git.savannah.gnu.org/git/time.git
+	path = git.savannah.gnu.org/time
+	url = git://git.savannah.gnu.org/time
