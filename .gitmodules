@@ -58,3 +58,6 @@
 [submodule "github.com/apache/httpd"]
 	path = github.com/apache/httpd
 	url = github.com:apache/httpd
+[submodule "github.com/apache/storm"]
+	path = github.com/apache/storm
+	url = github.com:apache/storm
