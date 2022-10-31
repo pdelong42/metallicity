@@ -49,3 +49,12 @@
 [submodule "github.com/WayneD/rsync"]
 	path = github.com/WayneD/rsync
 	url = github.com:WayneD/rsync
+[submodule "github.com/certbot/certbot"]
+	path = github.com/certbot/certbot
+	url = github.com:certbot/certbot
+[submodule "icing/mod_md"]
+	path = github.com/icing/mod_md
+	url = github.com:icing/mod_md
+[submodule "github.com/apache/httpd"]
+	path = github.com/apache/httpd
+	url = github.com:apache/httpd
