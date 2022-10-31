@@ -40,3 +40,9 @@
 [submodule "git.savannah.gnu.org/aris"]
 	path = git.savannah.gnu.org/aris
 	url = git://git.savannah.gnu.org/aris
+[submodule "github.com/git/madler/zlib"]
+	path = github.com/madler/zlib
+	url = github.com:madler/zlib
+[submodule "github.com/git/madler/pigz"]
+	path = github.com/madler/pigz
+	url = github.com:madler/pigz
