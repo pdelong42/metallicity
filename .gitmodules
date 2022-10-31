@@ -46,3 +46,6 @@
 [submodule "github.com/git/madler/pigz"]
 	path = github.com/madler/pigz
 	url = github.com:madler/pigz
+[submodule "github.com/WayneD/rsync"]
+	path = github.com/WayneD/rsync
+	url = github.com:WayneD/rsync
