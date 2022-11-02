@@ -61,3 +61,15 @@
 [submodule "github.com/apache/storm"]
 	path = github.com/apache/storm
 	url = github.com:apache/storm
+[submodule "github.com/gnuradio/gnuradio"]
+	path = github.com/gnuradio/gnuradio
+	url = github.com:gnuradio/gnuradio
+[submodule "github.com/ffmpeg/ffmpeg"]
+	path = github.com/ffmpeg/ffmpeg
+	url = github.com:ffmpeg/ffmpeg
+[submodule "github.com/openssl/openssl"]
+	path = github.com/openssl/openssl
+	url = github.com:openssl/openssl
+[submodule "github.com/videolan/vlc"]
+	path = github.com/videolan/vlc
+	url = github.com:videolan/vlc
