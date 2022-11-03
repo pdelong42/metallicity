@@ -76,3 +76,6 @@
 [submodule "github.com/FFTW/fftw3"]
 	path = github.com/FFTW/fftw3
 	url = github.com:FFTW/fftw3
+[submodule "git.savannah.gnu.org/gnugo"]
+	path = git.savannah.gnu.org/gnugo
+	url = git://git.savannah.gnu.org/gnugo
