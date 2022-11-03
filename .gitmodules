@@ -73,3 +73,6 @@
 [submodule "github.com/videolan/vlc"]
 	path = github.com/videolan/vlc
 	url = github.com:videolan/vlc
+[submodule "github.com/FFTW/fftw3"]
+	path = github.com/FFTW/fftw3
+	url = github.com:FFTW/fftw3
