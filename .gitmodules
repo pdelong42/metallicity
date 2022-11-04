@@ -79,3 +79,6 @@
 [submodule "git.savannah.gnu.org/gnugo"]
 	path = git.savannah.gnu.org/gnugo
 	url = git://git.savannah.gnu.org/gnugo
+[submodule "github.com/mobile-shell/mosh"]
+	path = github.com/mobile-shell/mosh
+	url = github.com:mobile-shell/mosh
