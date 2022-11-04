@@ -9,6 +9,7 @@ exec-cmd.c
 exec-cmd.h
 strbuf.h
 string-list.h
+strvec.h
 EOF
 
 # presently on:
@@ -20,6 +21,7 @@ EOF
 #
 # todo:
 #  - string-list.c
+#  - strvec.c
 #  - trace.c
 #  - trace.h
 #  - trace2.c
