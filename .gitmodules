@@ -85,3 +85,6 @@
 [submodule "github.com/recursion-ninja/CSc-85020"]
 	path = github.com/recursion-ninja/CSc-85020
 	url = github.com:recursion-ninja/CSc-85020
+[submodule "github.com/recursion-ninja/subway-virus-transmission"]
+	path = github.com/recursion-ninja/subway-virus-transmission
+	url = github.com:recursion-ninja/subway-virus-transmission
