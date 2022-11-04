@@ -82,3 +82,6 @@
 [submodule "github.com/mobile-shell/mosh"]
 	path = github.com/mobile-shell/mosh
 	url = github.com:mobile-shell/mosh
+[submodule "github.com/recursion-ninja/CSc-85020"]
+	path = github.com/recursion-ninja/CSc-85020
+	url = github.com:recursion-ninja/CSc-85020
