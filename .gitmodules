@@ -100,3 +100,30 @@
 [submodule "github.com/torvalds/linux"]
 	path = github.com/torvalds/linux
 	url = github.com:torvalds/linux
+[submodule "github.com/geerlingguy/my-backup-plan"]
+	path = github.com/geerlingguy/my-backup-plan
+	url = github.com:geerlingguy/my-backup-plan
+[submodule "github.com/facebook/zstd"]
+	path = github.com/facebook/zstd
+	url = github.com:facebook/zstd
+[submodule "github.com/libnet/libnet"]
+	path = github.com/libnet/libnet
+	url = github.com:libnet/libnet
+[submodule "github.com/brendangregg/perf-tools"]
+	path = github.com/brendangregg/perf-tools
+	url = github.com:brendangregg/perf-tools
+[submodule "github.com/mininet/mininet"]
+	path = github.com/mininet/mininet
+	url = github.com:mininet/mininet
+[submodule "github.com/NVIDIA/open-gpu-kernel-modules"]
+	path = github.com/NVIDIA/open-gpu-kernel-modules
+	url = github.com:NVIDIA/open-gpu-kernel-modules
+[submodule "github.com/mininet/pdf"]
+	path = github.com/mininet/pdf
+	url = github.com:mininet/pdf
+[submodule "github.com/FrameworkComputer/EmbeddedController"]
+	path = github.com/FrameworkComputer/EmbeddedController
+	url = github.com:FrameworkComputer/EmbeddedController
+[submodule "github.com/JackHidary/quantumcomputingbook"]
+	path = github.com/JackHidary/quantumcomputingbook
+	url = github.com:JackHidary/quantumcomputingbook
