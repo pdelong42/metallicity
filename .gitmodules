@@ -88,3 +88,6 @@
 [submodule "github.com/recursion-ninja/subway-virus-transmission"]
 	path = github.com/recursion-ninja/subway-virus-transmission
 	url = github.com:recursion-ninja/subway-virus-transmission
+[submodule "github.com/coq/coq"]
+	path = github.com/coq/coq
+	url = github.com:coq/coq
