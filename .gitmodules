@@ -91,3 +91,9 @@
 [submodule "github.com/coq/coq"]
 	path = github.com/coq/coq
 	url = github.com:coq/coq
+[submodule "github.com/clojure/clojure"]
+	path = github.com/clojure/clojure
+	url = github.com:clojure/clojure
+[submodule "github.com/clojure/clojurescript"]
+	path = github.com/clojure/clojurescript
+	url = github.com:clojure/clojurescript
