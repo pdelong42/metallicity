@@ -97,3 +97,6 @@
 [submodule "github.com/clojure/clojurescript"]
 	path = github.com/clojure/clojurescript
 	url = github.com:clojure/clojurescript
+[submodule "github.com/torvalds/linux"]
+	path = github.com/torvalds/linux
+	url = github.com:torvalds/linux
