@@ -127,3 +127,9 @@
 [submodule "github.com/JackHidary/quantumcomputingbook"]
 	path = github.com/JackHidary/quantumcomputingbook
 	url = github.com:JackHidary/quantumcomputingbook
+[submodule "github.com/cnst/lz4json"]
+	path = github.com/cnst/lz4json
+	url = github.com:cnst/lz4json
+[submodule "github.com/andikleen/lz4json"]
+	path = github.com/andikleen/lz4json
+	url = github.com:andikleen/lz4json
