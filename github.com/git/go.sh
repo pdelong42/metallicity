@@ -23,6 +23,8 @@ EOF
 # todo:
 #  - chdir-notify.c
 #  - chdir-notify.h
+#  - config.c
+#  - config.h
 #  - repository.c
 #  - repository.h
 #  - string-list.c
