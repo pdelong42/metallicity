@@ -1,0 +1,13 @@
+Fix the for-loop in validate_cache_entries(), in the file
+read-cache.c; see 8616a2d0cb57865540f1c00ac2e5385a6cc5d84e for the
+full context.  Before attempting to submit the fix, read the
+guidelines at https://git-scm.com/community
+
+The exclude_cmds() function, in help.c, seems to assume that the
+inputs are already sorted.  This is fine, but it seems like that may
+not be a guarantee, in the one case that it *is* called, elsewhere in
+the same file.  It looks as if main_cmds gets sorted if exec_path is
+true, and other_cmds gets sorted if env_path is true, but they aren't
+both *guaranteed* to be true simultaneously (even if that *is* the
+case "most of the time" - because the other some of the time we'll get
+buggy behavior).
