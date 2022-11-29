@@ -16,3 +16,32 @@ buggy behavior). [v2.38.1]
 
 On line 88 of repository.h, "repositories" should be
 "repository's". [v2.38.1]
+
+Placeholders...
+
+presently on:
+ - git.c
+
+next steps:
+ - help.c
+ - pager.c
+ - usage.c
+ - setup.c
+
+todo:
+ - alias.c
+ - cache.h
+ - chdir-notify.c
+ - chdir-notify.h
+ - config.c
+ - config.h
+ - environment.c
+ - repository.c
+ - repository.h
+ - string-list.c
+ - strvec.c
+ - trace.c
+ - trace.h
+ - trace2.c
+ - trace2.h
+ - wrapper.c
