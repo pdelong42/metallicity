@@ -1,5 +1,44 @@
-Before attempting to submit any fix, read the guidelines at
-https://git-scm.com/community
+Placeholders...
+
+presently on:
+ - git.c:89
+ - alias.c:44
+ - config.c:2250
+ - setup.c:1383
+ - setup.c:1287
+ - config.c:2088
+ - config.c:1435
+ - config.c:1417
+ - config.c:1221
+ - config.c:1170
+ - config.c:1170
+
+next steps:
+ - help.c
+ - pager.c
+ - usage.c
+ - setup.c
+
+todo:
+ - abspath.c
+ - cache.h
+ - chdir-notify.c
+ - chdir-notify.h
+ - config.h
+ - environment.c
+ - path.c
+ - repository.c
+ - repository.h
+ - strbuf.c
+ - string-list.c
+ - strvec.c
+ - trace.c
+ - trace.h
+ - trace2.c
+ - trace2.h
+ - wrapper.c
+
+Things that look like bugs at face value:
 
 Fix the for-loop in validate_cache_entries(), in the file
 read-cache.c; see 8616a2d0cb57865540f1c00ac2e5385a6cc5d84e for the
@@ -17,33 +56,13 @@ buggy behavior). [v2.38.1]
 On line 88 of repository.h, "repositories" should be
 "repository's". [v2.38.1]
 
-Placeholders...
+At path.c:1229, it doesn't seem like "C:" will ever match. [v2.38.1]
 
-presently on:
- - git.c:89
- - alias.c:44
- - config.c:2250
- - setup.c:1383
+In abspath.c:77, it seems like strbuf_realpath_1() can be implemented
+in a better way than using a goto statement. [v2.38.1]
 
-next steps:
- - help.c
- - pager.c
- - usage.c
- - setup.c
+See whether in setup.c:1101-1102, item->string can be replaced with
+ceil, or with &ceil. [v2.38.1]
 
-todo:
- - cache.h
- - chdir-notify.c
- - chdir-notify.h
- - config.h
- - environment.c
- - repository.c
- - repository.h
- - strbuf.c
- - string-list.c
- - strvec.c
- - trace.c
- - trace.h
- - trace2.c
- - trace2.h
- - wrapper.c
+Before attempting to submit any fix, read the guidelines at
+https://git-scm.com/community
