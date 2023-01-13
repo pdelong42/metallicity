@@ -133,3 +133,6 @@
 [submodule "github.com/andikleen/lz4json"]
 	path = github.com/andikleen/lz4json
 	url = github.com:andikleen/lz4json
+[submodule "github.com/htcondor/htcondor"]
+	path = github.com/htcondor/htcondor
+	url = github.com:htcondor/htcondor
