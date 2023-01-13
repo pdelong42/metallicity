@@ -136,3 +136,6 @@
 [submodule "github.com/htcondor/htcondor"]
 	path = github.com/htcondor/htcondor
 	url = github.com:htcondor/htcondor
+[submodule "github.com/ntp-project/ntp"]
+	path = github.com/ntp-project/ntp
+	url = github.com:ntp-project/ntp
