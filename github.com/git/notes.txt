@@ -5,13 +5,9 @@ presently on:
  - alias.c:44
  - config.c:2250
  - setup.c:1383
- - setup.c:1287
- - config.c:2088
- - config.c:1435
- - config.c:1417
- - config.c:1221
- - config.c:1170
- - config.c:1170
+ - setup.c:1299
+ - setup.c:863
+ - setup.c:345
 
 next steps:
  - help.c
