@@ -139,3 +139,9 @@
 [submodule "github.com/ntp-project/ntp"]
 	path = github.com/ntp-project/ntp
 	url = github.com:ntp-project/ntp
+[submodule "github.com/SchedMD/slurm"]
+	path = github.com/SchedMD/slurm
+	url = github.com:SchedMD/slurm
+[submodule "github.com/sicmutils/sicmutils"]
+	path = github.com/sicmutils/sicmutils
+	url = github.com:sicmutils/sicmutils
