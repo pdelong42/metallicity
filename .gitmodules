@@ -145,3 +145,6 @@
 [submodule "github.com/sicmutils/sicmutils"]
 	path = github.com/sicmutils/sicmutils
 	url = github.com:sicmutils/sicmutils
+[submodule "github.com/squid-cache/squid"]
+	path = github.com/squid-cache/squid
+	url = github.com:squid-cache/squid
