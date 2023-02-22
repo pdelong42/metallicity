@@ -4,6 +4,7 @@
 #xargs git show v2.38.0-rc2..v2.38.1 -- $* <<EOF
 xargs git log --oneline v2.38.0-rc2..v2.38.1 -- $* <<EOF
 Makefile
+abspath.c
 common-main.c
 exec-cmd.c
 exec-cmd.h

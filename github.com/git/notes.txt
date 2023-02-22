@@ -5,11 +5,7 @@ presently on:
  - alias.c:44
  - config.c:2250
  - setup.c:1383
- - setup.c:1299
- - setup.c:863
- - setup.c:357
- - path.c:687
- - wrapper.c:282
+ - setup.c:1300
 
 next steps:
  - help.c
@@ -62,8 +58,14 @@ in a better way than using a goto statement. [v2.38.1]
 See whether in setup.c:1101-1102, item->string can be replaced with
 ceil, or with &ceil. [v2.38.1]
 
+See about restructuring read_gitfile_gently(), in setup.c:806-879, to
+eliminate the need for goto statements. [v2.38.1]
+
 See about restructuring is_git_directory(), in setup.c:345-383, to
-eliminate the need for goto statements.
+eliminate the need for goto statements. [v2.38.1]
+
+See about restructuring strbuf_realpath_1(), in abspath.c:77-200, to
+eliminate the need for goto statements. [v2.38.1]
 
 Before attempting to submit any fix, read the guidelines at
 https://git-scm.com/community
