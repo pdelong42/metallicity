@@ -148,3 +148,6 @@
 [submodule "github.com/squid-cache/squid"]
 	path = github.com/squid-cache/squid
 	url = github.com:squid-cache/squid
+[submodule "github.com/rtyley/bfg-repo-cleaner"]
+	path = github.com/rtyley/bfg-repo-cleaner
+	url = github.com:rtyley/bfg-repo-cleaner
