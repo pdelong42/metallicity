@@ -151,3 +151,6 @@
 [submodule "github.com/rtyley/bfg-repo-cleaner"]
 	path = github.com/rtyley/bfg-repo-cleaner
 	url = github.com:rtyley/bfg-repo-cleaner
+[submodule "git.savannah.gnu.org/findutils"]
+	path = git.savannah.gnu.org/findutils
+	url = git://git.savannah.gnu.org/findutils
