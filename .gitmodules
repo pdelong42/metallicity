@@ -154,3 +154,6 @@
 [submodule "git.savannah.gnu.org/findutils"]
 	path = git.savannah.gnu.org/findutils
 	url = git://git.savannah.gnu.org/findutils
+[submodule "github.com/curl/curl"]
+	path = github.com/curl/curl
+	url = github.com:curl/curl
