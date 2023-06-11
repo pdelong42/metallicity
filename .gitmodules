@@ -157,3 +157,21 @@
 [submodule "github.com/curl/curl"]
 	path = github.com/curl/curl
 	url = github.com:curl/curl
+[submodule "gitlab.com/procps-ng/procps"]
+	path = gitlab.com/procps-ng/procps
+	url = gitlab.com:procps-ng/procps
+[submodule "github.com/apache/solr"]
+	path = github.com/apache/solr
+	url = github.com:apache/solr
+[submodule "github.com/jcf94/dragon-book-exercise-answers"]
+	path = github.com/jcf94/dragon-book-exercise-answers
+	url = github.com:jcf94/dragon-book-exercise-answers
+[submodule "github.com/fool2fish/dragon-book-exercise-answers"]
+	path = github.com/fool2fish/dragon-book-exercise-answers
+	url = github.com:fool2fish/dragon-book-exercise-answers
+[submodule "git.kernel.org/libs/libgpiod/libgpiod"]
+	path = git.kernel.org/libs/libgpiod/libgpiod
+	url = https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git
+[submodule "github.com/jamis/amazing-desktops"]
+	path = github.com/jamis/amazing-desktops
+	url = github.com:jamis/amazing-desktops
