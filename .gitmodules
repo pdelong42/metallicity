@@ -175,3 +175,6 @@
 [submodule "github.com/jamis/amazing-desktops"]
 	path = github.com/jamis/amazing-desktops
 	url = github.com:jamis/amazing-desktops
+[submodule "github.com/cea-hpc/modules"]
+	path = github.com/cea-hpc/modules
+	url = github.com:cea-hpc/modules
