@@ -178,3 +178,6 @@
 [submodule "github.com/cea-hpc/modules"]
 	path = github.com/cea-hpc/modules
 	url = github.com:cea-hpc/modules
+[submodule "gitlab.com/gitlab-org/gitlab-runner"]
+	path = gitlab.com/gitlab-org/gitlab-runner
+	url = gitlab.com:gitlab-org/gitlab-runner
