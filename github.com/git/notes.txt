@@ -5,7 +5,14 @@ presently on:
  - alias.c:44
  - config.c:2250
  - setup.c:1383
- - setup.c:1300
+ - setup.c:1324
+ - setup.c:1163
+ - config.c:2667
+ - config.c:2656
+ - config.c:2392
+ - config.c:2386
+ - config.c:2304
+ - config.c:2290
 
 next steps:
  - help.c
@@ -66,6 +73,15 @@ eliminate the need for goto statements. [v2.38.1]
 
 See about restructuring strbuf_realpath_1(), in abspath.c:77-200, to
 eliminate the need for goto statements. [v2.38.1]
+
+See about restructuring interpolate_path(), in path.c:731-770, to
+eliminate the need for goto statements. [v2.38.1]
+
+Reverse the sense of the if() enclosing git-compat-util.h:491-500, to
+reduce gratutitous indentation (same for 498-499). [v2.38.1]
+
+reverse the sense of hte if() enclosing most of the body of
+git_parse_unsigned() in config.c:1189-1216. [v2.38.1]
 
 Before attempting to submit any fix, read the guidelines at
 https://git-scm.com/community
