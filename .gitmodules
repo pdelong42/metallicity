@@ -181,3 +181,9 @@
 [submodule "gitlab.com/gitlab-org/gitlab-runner"]
 	path = gitlab.com/gitlab-org/gitlab-runner
 	url = gitlab.com:gitlab-org/gitlab-runner
+[submodule "github.com/cronie-crond/cronie"]
+	path = github.com/cronie-crond/cronie
+	url = github.com:cronie-crond/cronie
+[submodule "github.com/cronie-crond/crontabs"]
+	path = github.com/cronie-crond/crontabs
+	url = github.com:cronie-crond/crontabs
