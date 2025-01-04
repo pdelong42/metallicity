@@ -187,3 +187,33 @@
 [submodule "github.com/cronie-crond/crontabs"]
 	path = github.com/cronie-crond/crontabs
 	url = github.com:cronie-crond/crontabs
+[submodule "code.videolan.org/videolan/vlc"]
+	path = code.videolan.org/videolan/vlc
+	url = https://code.videolan.org/videolan/vlc
+[submodule "github.com/videolan/vlc-android"]
+	path = github.com/videolan/vlc-android
+	url = github.com:videolan/vlc-android
+[submodule "overtone/overtone"]
+	path = github.com/overtone/overtone
+	url = github.com:overtone/overtone
+[submodule "technomancy/leiningen"]
+	path = github.com/technomancy/leiningen
+	url = github.com:technomancy/leiningen
+[submodule "github.com/ctford/birdsong-as-code"]
+	path = github.com/ctford/birdsong-as-code
+	url = github.com:ctford/birdsong-as-code
+[submodule "github.com/chaim-zax/gq-gmc-control"]
+	path = github.com/chaim-zax/gq-gmc-control
+	url = github.com:chaim-zax/gq-gmc-control
+[submodule "github.com/ThomasHabets/gq-gmc-control"]
+	path = github.com/ThomasHabets/gq-gmc-control
+	url = github.com:ThomasHabets/gq-gmc-control
+[submodule "github.com/rschroll/rmfuse"]
+	path = github.com/rschroll/rmfuse
+	url = github.com:rschroll/rmfuse
+[submodule "github.com/syncthing/syncthing"]
+	path = github.com/syncthing/syncthing
+	url = github.com:syncthing/syncthing
+[submodule "github.com/quantumlib/Cirq"]
+	path = github.com/quantumlib/Cirq
+	url = github.com:quantumlib/Cirq
