@@ -187,6 +187,7 @@
 [submodule "github.com/cronie-crond/crontabs"]
 	path = github.com/cronie-crond/crontabs
 	url = github.com:cronie-crond/crontabs
+<<<<<<< Updated upstream
 [submodule "code.videolan.org/videolan/vlc"]
 	path = code.videolan.org/videolan/vlc
 	url = https://code.videolan.org/videolan/vlc
@@ -229,3 +230,6 @@
 [submodule "github.com/besser82/libxcrypt"]
 	path = github.com/besser82/libxcrypt
 	url = github.com:besser82/libxcrypt
+[submodule "github.com/book-of-kubernetes/examples"]
+	path = github.com/book-of-kubernetes/examples
+	url = git@github.com:book-of-kubernetes/examples
