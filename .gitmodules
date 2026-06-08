@@ -217,3 +217,15 @@
 [submodule "github.com/quantumlib/Cirq"]
 	path = github.com/quantumlib/Cirq
 	url = github.com:quantumlib/Cirq
+[submodule "thekelleys.org.uk/dnsmasq"]
+	path = thekelleys.org.uk/dnsmasq
+	url = git://thekelleys.org.uk/dnsmasq.git
+[submodule "github.com/paramiko/paramiko"]
+	path = github.com/paramiko/paramiko
+	url = github.com:paramiko/paramiko
+[submodule "github.com/fedora-python/crypt_r"]
+	path = github.com/fedora-python/crypt_r
+	url = github.com:fedora-python/crypt_r
+[submodule "github.com/besser82/libxcrypt"]
+	path = github.com/besser82/libxcrypt
+	url = github.com:besser82/libxcrypt
