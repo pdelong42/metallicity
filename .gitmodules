@@ -187,7 +187,6 @@
 [submodule "github.com/cronie-crond/crontabs"]
 	path = github.com/cronie-crond/crontabs
 	url = github.com:cronie-crond/crontabs
-<<<<<<< Updated upstream
 [submodule "code.videolan.org/videolan/vlc"]
 	path = code.videolan.org/videolan/vlc
 	url = https://code.videolan.org/videolan/vlc
